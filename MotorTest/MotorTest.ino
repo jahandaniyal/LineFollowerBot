@@ -4,6 +4,7 @@
 #define ML2 9
 
 
+//Function to setup correct pins to the motor and test its working
 
 void setup()
 {
